@@ -34,7 +34,7 @@ class Student{
 
         //Enhanced FOR loop
         for(Student stud : students){
-            System.out.println(stud.name + " :"+stud.marks);
+            System.out.println(stud.name + " :"+stud.marks + " :" + stud.age);
         }
 
     }
